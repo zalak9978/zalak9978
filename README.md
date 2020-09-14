@@ -7,7 +7,7 @@ I am Zalak Desai. I find my interest in machine learning and software developmen
 
 --> 
 - 🌱 I’m currently learning Machine Learning and Android Application Development using Java 
-- 👯 I’m looking to collaborate on **Python Programming** projects
+- 👯 I’m looking to collaborate on **Python Programming** and **Computer Vision** projects
 - 🤔 I’m looking for help with Software development and Data analysis
 - 📫 How to reach me: Contact me directly via email at [zalakdesai4@gmail.com](mailto:zalakdesai4@gmail.com)
 
